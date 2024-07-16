@@ -2,7 +2,7 @@ body {background: linear-gradient(to right, #99e6b3,#367588,#a0d6b4);text-align:
 h1 {color: red; text-decoration: underline; font-family: Arial, Helvetica, sans-serif; font-size: 40px;}
 h2 {color: rgb(87, 25, 145); text-decoration: underline; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; font-style: italic; font-size: 30px;}
 p {color: rgb(255, 255, 255); font-size: 20px; font-family: Arial, Helvetica, sans-serif;}
-dd {color: white; font-size: 20px; font-family: Arial, Helvetica, sans-serif;}
+dd {text-aliggn:center; color: white; font-size: 20px; font-family: Arial, Helvetica, sans-serif;}
 dt {color:black; font-size: 15px; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
 dl {aliggn itens:center; margin: auto; background-color: red; width: 300px; box-shadow: 10px 10px; border-radius: 10px 10px;}
 ol {color: black; background-color: white; width: 300px; margin: auto; border-radius: 10px 10px; box-shadow: 10px 10px;}
